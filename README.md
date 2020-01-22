@@ -3,3 +3,6 @@ A simple Java Media Player. I dig into the Java Sound API and the Java Graphics 
 
 ## Some exploration:
 The Java Sound API does NOT support MP3 format so I intend to include the library to play MP3 files.
+
+## Run the program
+Download the JavaSoundPlayer.jar file to run the program.
